@@ -1,5 +1,5 @@
-<h1 align="center">#Hi 👋, I'm **Abhilash Hari**</h1>
-<h3 align="center">##**A 19 year old enthusiastic developer from India**.</h3>
+<h1 align="center"> Hi 👋, I'm Abhilash Hari </h1>
+<h3 align="center">A 19 year old enthusiastic developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashhari1313&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashhari1313" /> </p>
 
