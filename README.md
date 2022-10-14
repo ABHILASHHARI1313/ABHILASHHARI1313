@@ -1,6 +1,6 @@
 <h1 align="center">HI 👋, I AM ABHILASH HARI.</h1>
 <h3 align="center">A 19 YEAR OLD BOY FROM INDIA.</h3>
-![beanie](https://user-images.githubusercontent.com/85421732/195838402-6da7ed48-619d-4ab8-9eaa-bdc7ebb54c3b.jpg)
+![beanie](	/../../../../github/docs/blob/main/assets/beanie/beanie.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashhari1313&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashhari1313" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashhari1313" alt="abhilashhari1313" /></a> </p>
