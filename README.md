@@ -1,6 +1,5 @@
 <h1 align="center">HI 👋, I AM ABHILASH HARI.</h1>
-<h3 align="center">A 19 YEAR OLD BOY FROM INDIA.</h3>
-![beanie](../blob/main/assets//beanie/beanie.png?raw=true)
+<img src="https://[https://wonderfulengineering.com/wp-content/uploads/2014/11/Quote-wallpaper-40-800x450.jpg" width="100" height="100">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashhari1313&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashhari1313" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashhari1313" alt="abhilashhari1313" /></a> </p>
