@@ -1,6 +1,6 @@
 <h1 align="center"># HI 👋, I AM  ABHILASH HARI. </h1>
 <h3 align="center"># A 19 YEAR OLD BOY FROM INDIA.</h3>
-![This is an image](RERE[https://w0.peakpx.com/wallpaper/909/501/HD-wallpaper-cuddle-dude-bear-cool-dude-rode-fun-new-rode-youtube.jpg])
+img src ="https://w0.peakpx.com/wallpaper/909/501/HD-wallpaper-cuddle-dude-bear-cool-dude-rode-fun-new-rode-youtube.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashhari1313&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashhari1313" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashhari1313" alt="abhilashhari1313" /></a> </p>
