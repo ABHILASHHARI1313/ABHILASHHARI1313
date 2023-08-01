@@ -85,21 +85,15 @@
 
 <h1 align="center"> Github Stats 📊 : </h1> 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashhari1313&layout=compact&theme=nightowl" alt=abhilashhari1313 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&show_icons=true&locale=en&theme=nightowl" alt="abhilashhari1313" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashhari1313&theme=nightowl" alt="abhilashhari1313" /></p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| ![Abhilash github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhilashhari1313&show_icons=true&theme=nightowl)             | ![Aritra GitHub Streak](https://streak-stats.demolab.com/?user=abhilashhari1313&theme=nightowl)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhilashhari1313&langs_count=8&theme=nightowl&layout=compact) | ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilashhari1313&sho_icons=true&theme=nightowl) |
 
 <h1 align ="center"> Productivity Stats 📈 :</h1>
 <div align="center">
  
 <a href="https://github.com/abhilashhari1313">
 <p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilashhari1313&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhilashhari1313&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilashhari1313&theme=nightowl" height="180em" />
 </p>  
