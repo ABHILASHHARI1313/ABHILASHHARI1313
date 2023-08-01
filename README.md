@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abhilash Hari</h1>
 <h3 align="center">A Python Developer from India</h3>
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhilashhari1313&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashhari1313" /> </p>
+
+<div  align="center">
+<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 <h1 align="center">Github Trophies 🏆 :</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhilashhari1313&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashhari1313" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashhari1313" alt="abhilashhari1313" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashhari1313&theme=onestar" alt="abhilashhari1313" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/_abhilashhari" target="blank"><img src="https://img.shields.io/twitter/follow/_abhilashhari?logo=twitter&style=for-the-badge" alt="_abhilashhari" /></a> </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">A Little Bio 📝 :</h1>
 <p align ="center">
 - 🔭 I’m currently working on building cool stuffs.
 </p>
@@ -33,20 +38,28 @@
 - ⚡ Fun fact I think I am funny.
 </p>
 
-<h1 align ="center"> Productivity Stats 📈 :</h1>
-<table align = "center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilashhari1313&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=abhilashhari1313&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto  alt=" "></td>
 
-  </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+<h1 align="center"> Connect with me 📞 : </h1>
+
+<div align="center">
+  <a href="https://www.instagram.com/_abhilashhari/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="discordapp.com/users/Abhilash Hari#3093"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://twitter.com/_abhilashhari"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
+  <a href ="https://www.linkedin.com/in/abhilash-hari-203aa4210/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+</div>
+
+###
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![@abhilashhari's Holopin board](https://holopin.me/abhilashhari1313)](https://holopin.io/@abhilashhari)
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center"> Language and Tools 🔧 :</h1>
 
@@ -67,41 +80,45 @@
 
 ###
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center"> Github Stats 📊 : </h1> 
 
 ###
+<div align="center">
+ <div>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&show_icons=true&locale=en&theme=nightowl" alt="abhilashhari1313" /></p>
+ </div>
+ <div>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashhari1313&theme=nightowl" alt="abhilashhari1313" /></p>
+</div>
+</br>
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashhari1313&layout=compact&theme=nightowl" alt=abhilashhari1313 />
+</div>
+ </br>
+</div>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashhari1313&layout=compact&theme=nightowl" alt=abhilashhari1313 />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&show_icons=true&locale=en&theme=nightowl" alt="abhilashhari1313" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashhari1313&theme=nightowl" alt="abhilashhari1313" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h1 align ="center"> Productivity Stats 📈 :</h1>
 <div align="center">
 <a href="https://github.com/abhilashhari1313">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilashhari1313&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhilashhari1313&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilashhari1313&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhilashhari1313&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilashhari1313&theme=nightowl" height="180em" />
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilashhari1313&theme=nightowl" height="180em" />
 </div>
-
-###
-<h1 align="center"> Connect with me 📞 : </h1>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
+  
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhilashhari1313/abhilashhari1313/output/snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Activity Graph 📈 :</h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abhilashhari1313&theme=nightowl"/>
 
-###
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
