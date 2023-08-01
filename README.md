@@ -71,9 +71,20 @@
 
 ###
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashhari1313&layout=compact&theme=nightowl" alt=abhilashhari1313 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&show_icons=true&locale=en&theme=nightowl" alt="abhilashhari1313" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashhari1313&theme=nightowl" alt="abhilashhari1313" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashhari1313&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://github.com/abhilashhari1313">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhilashhari1313&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilashhari1313&theme=nightowl" height="180em" />
 </div>
 
 ###
