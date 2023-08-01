@@ -85,21 +85,12 @@
 
 <h1 align="center"> Github Stats 📊 : </h1> 
 
-###
-<div align="center">
- <div>
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&show_icons=true&locale=en&theme=nightowl" alt="abhilashhari1313" /></p>
- </div>
- <div>
-<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashhari1313&theme=nightowl" alt="abhilashhari1313" /></p>
-</div>
-</br>
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashhari1313&layout=compact&theme=nightowl" alt=abhilashhari1313 />
-</div>
- </br>
-</div>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashhari1313&layout=compact&theme=nightowl" alt=abhilashhari1313 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilashhari1313&show_icons=true&locale=en&theme=nightowl" alt="abhilashhari1313" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashhari1313&theme=nightowl" alt="abhilashhari1313" /></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
