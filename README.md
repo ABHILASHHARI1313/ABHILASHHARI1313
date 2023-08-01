@@ -85,10 +85,10 @@
 
 <h1 align="center"> Github Stats 📊 : </h1> 
 
-| ![Abhilash github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhilashhari1313&show_icons=true&theme=nightowl)             | ![Aritra GitHub Streak](https://streak-stats.demolab.com/?user=abhilashhari1313&theme=nightowl)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhilashhari1313&langs_count=8&theme=nightowl&layout=compact) | ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilashhari1313&sho_icons=true&theme=nightowl) |
-
+| ![Abhilash github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhilashhari1313&show_icons=true&theme=nightowl)          | ![Abhilash GitHub Streak](https://streak-stats.demolab.com/?user=abhilashhari1313&theme=nightowl)                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                   |
+| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhilashhari1313&theme=nightowl&layout=compact)  |                                             
+    
 <h1 align ="center"> Productivity Stats 📈 :</h1>
 <div align="center">
  
@@ -97,7 +97,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhilashhari1313&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilashhari1313&theme=nightowl" height="180em" />
 </p>  
-  -----------------------------------------------------------------------------------------
 <p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhilashhari1313&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilashhari1313&theme=nightowl" height="180em" />
