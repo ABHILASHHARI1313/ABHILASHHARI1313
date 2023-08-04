@@ -35,7 +35,7 @@
 - 📫 How to reach me abhilashhari1313@gmail.com
 </p>
 <p align ="center">
-- ⚡ Fun fact I think I am funny.
+- ⚡ Fun fact I am funny.
 </p>
 
 
