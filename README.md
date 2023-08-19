@@ -88,7 +88,7 @@
 | ![Abhilash github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhilashhari1313&show_icons=true&theme=nightowl)          | ![Abhilash GitHub Streak](https://streak-stats.demolab.com/?user=abhilashhari1313&theme=nightowl)                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                   |
 | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhilashhari1313&theme=nightowl&layout=compact)  |                                             
-    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align ="center"> Productivity Stats 📈 :</h1>
 <div align="center">
  
